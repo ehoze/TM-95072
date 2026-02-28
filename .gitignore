@@ -1,0 +1,14 @@
+#logs
+*.log
+npm-debug.log*
+
+# Środowiska wirtualne
+venv/
+.env
+node_modules/
+
+#pliki systemowe
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

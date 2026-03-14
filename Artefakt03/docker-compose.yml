@@ -6,4 +6,4 @@ services:
       - "4723:4723"
     environment:
       - CONNECT_TO_GRID=false
-    restart: always
+    restart: alwaysS

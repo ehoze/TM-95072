@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: setwallpaper
+TAG: Button
+STATUS: ZALICZONE
